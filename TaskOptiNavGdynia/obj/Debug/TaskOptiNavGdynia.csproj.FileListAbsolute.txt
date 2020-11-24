@@ -1,0 +1,15 @@
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia.csprojAssemblyReference.cache
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\App.g.cs
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia_MarkupCompile.cache
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia_MarkupCompile.lref
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\bin\Debug\TaskOptiNavGdynia.exe.config
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\bin\Debug\TaskOptiNavGdynia.exe
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\bin\Debug\TaskOptiNavGdynia.pdb
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia.g.resources
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia.Properties.Resources.resources
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia.csproj.GenerateResource.cache
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia.csproj.CoreCompileInputs.cache
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia.exe
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\TaskOptiNavGdynia.pdb
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\Windows1.g.cs
+C:\Users\romit\OneDrive\Desktop\TaskOptiNavGdynia\TaskOptiNavGdynia\obj\Debug\Windows1.baml
